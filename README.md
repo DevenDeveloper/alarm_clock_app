@@ -1,10 +1,13 @@
-# clock_app
+# Clock App
 
-A new Flutter project.
+A beautifully designed analog clock application featuring an integrated alarm system, developed using the Provider state management approach. This application showcases a sleek and user-friendly interface, with a fully functional analog clock displaying real-time updates. Users can set, edit, and delete alarms effortlessly, with customizable tones and repeat options.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/ba224d9a-a4c0-4cb6-8803-661b0cc5ba40)
+![image](https://github.com/user-attachments/assets/8b627e44-dd36-42c2-8ae9-1636413faafd)
+
+## Getting Started with Flutter 
 
 A few resources to get you started if this is your first Flutter project:
 

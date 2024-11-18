@@ -4,8 +4,10 @@ A beautifully designed analog clock application featuring an integrated alarm sy
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/ba224d9a-a4c0-4cb6-8803-661b0cc5ba40)
-![image](https://github.com/user-attachments/assets/8b627e44-dd36-42c2-8ae9-1636413faafd)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f09d0918-e586-432c-a5ef-922772e04772" alt="Screenshot 1" width="35%">
+  <img src="https://github.com/user-attachments/assets/7d7ced07-e7a6-4331-aa9b-bb1521dabfa3" alt="Screenshot 2" width="35%">
+</p>
 
 ## Getting Started with Flutter 
 
